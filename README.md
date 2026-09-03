@@ -99,7 +99,7 @@ The app is deployed to Vercel as a single Python serverless function. See `verce
 
 ## Environment Variables
 
-See [`.env.example`](.env.example) for all available configuration options.
+See [`.env.example`](curatwin/.env.example) for all available configuration options.
 
 ## License
 
