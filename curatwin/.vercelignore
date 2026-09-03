@@ -1,0 +1,10 @@
+tests
+*.db
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.gitignore
+curatwin.db
+node-v20.18.1-win-x64
+node.zip

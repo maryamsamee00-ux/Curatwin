@@ -1,0 +1,47 @@
+# Environment
+.env
+.env.*
+.env.*.local
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Node / tooling
+node_modules/
+node-v*-win-x64/
+.node-portable/
+
+# Binaries & logs
+cloudflared.exe
+*.exe
+*.log
+
+# Vercel
+.vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scripts (hardcoded paths)
+start-curatwin.bat
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
